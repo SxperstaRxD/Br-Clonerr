@@ -33,8 +33,8 @@
 
 ## Need Help?
 
-- [Instagram](https://www.instagram.com/itz.me._.aarav/)
-- [Discord](https://discord.gg/a3EjDW2Uu3)
+- [Instagram](https://www.instagram.com/superstar.4sure/)
+- [Discord](https://discord.gg/PgmS7dZj9n)
 
 ## About
 
@@ -56,14 +56,14 @@ $ python3 main.py
 ```
 ## Deployed
 
-- [GitHub](https://github.com/ItzmeKen/Lua-Cloner/)
+- [GitHub](https://github.com/SxperstaRxD/Br-Clonerr.git)
 - [Repl]Currently Unavailable
 
 
 ## Links
 
 - [Website]In Developement
-- [GitHub](https://github.com/ItzmeKen)
+- [GitHub](https://github.com/SxperstaRxD/Br-Clonerr.git)
 
 
 ## Features
@@ -90,7 +90,7 @@ Contributions are always Welcome...
 -   Push your work and Create a Pull Request.....
 
 ### Issues
-If you have any issues with the project or you found a bug please create [new issue here](https://github.com/ItzmeKen/Lua-Cloner/issues)
+If you have any issues with the project or you found a bug please create [new issue here](https://github.com/SxperstaRxD/Br-Clonerr.git)
 
 
 ### Pull Requests
@@ -98,4 +98,4 @@ When submitting a pull request:
 
 - Clone the repo.
 - Create a branch off of master and give it a meaningful name (e.g. my-awesome-new-feature).
-- Open a [pull request](https://github.com/ItzmeKen/Lua-Cloner/pulls) on [GitHub](https://github.com) and describe the feature or fix.
+- Open a [pull request](https://github.com/SxperstaRxD/Br-Clonerr.git) on [GitHub](https://github.com) and describe the feature or fix.
